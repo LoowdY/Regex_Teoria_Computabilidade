@@ -23,3 +23,10 @@ Na abordagem recursiva, o programa se chama repetidamente até que um critério 
 ## Conclusão
 
 Este estudo revelou como diferentes abordagens de programação podem ser aplicadas para resolver o mesmo problema. Cada paradigma oferece suas próprias vantagens: o monolítico pela sua simplicidade estrutural, o iterativo pela sua clareza e eficiência em problemas sequenciais, e o recursivo pela sua elegância e expressividade em dividir o problema em subproblemas menores. A escolha entre esses paradigmas depende das necessidades específicas do projeto, da complexidade do problema e da preferência do programador.
+
+##Participantes:  
+
+Joao Renan Lopes;  
+Bruno kalel;    
+Rafael Maranhão;  
+Adib Hosn.  
