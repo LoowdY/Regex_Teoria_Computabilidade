@@ -1,4 +1,4 @@
-#regex: ^[A-Za-z]{3}\d[A-Za-z]\d{2}$ 
+#regex: ^[A-Z]{3}\d[A-Z]\d{2}$ 
 
 #FUNÇÃO RECURSIVA PARA VERIFICAR PLACA (PROGRAMA RECURSIVO)
 def verificar_placa_recursiva(placa, i=0):
