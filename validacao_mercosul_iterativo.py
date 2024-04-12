@@ -1,4 +1,4 @@
-#regex: ^[A-Za-z]{3}\d[A-Za-z]\d{2}$ 
+#regex: ^[A-Z]{3}\d[A-Z]\d{2}$ 
 
 #FUNÇÃO PARA VERIFICAR PLACA
 def verificar_placa(placa):
