@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
-//expressão regular: ^[A-Za-z]{3}\d[A-Za-z]\d{2}$ 
+//expressão regular: ^[A-Z]{3}\d[A-Z]\d{2}$ 
 //o codigo abaixo é monolítico, ou seja, possui apenas estruturas de decisão e o uso do goto.
 
 //função principal do programa (onde a lógica mais relevante se desenvolve)
